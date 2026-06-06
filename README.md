@@ -235,6 +235,8 @@ MCP servers related to Finance
 - [crypto-feargreed-mcp](https://github.com/kukapay/crypto-feargreed-mcp) - Providing real-time and historical Crypto Fear & Greed Index data
 - [cryptopanic-mcp-server](https://github.com/kukapay/cryptopanic-mcp-server) - Providing latest cryptocurrency news to AI agents, powered by CryptoPanic
 
+- [TWZRD Agent Intel](https://intel.twzrd.xyz) - Trust scoring and x402 micropayment verification for AI agents on Solana. Free: resolve_agent, score_agent, preflight_check, verify_trust_receipt. Paid: get_trust_receipt (HTTP 402 + USDC).
+
 ## Gaming
 
 MCP servers related to Gaming
